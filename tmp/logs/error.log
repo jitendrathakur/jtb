@@ -1,0 +1,151 @@
+2012-05-18 14:56:00 Warning: Warning (2): fopen(/home/jitendra/public_html/croogo/config/core.php) [http://php.net/function.fopen]: failed to open stream: Permission denied in [/usr/share/php/cake/libs/file.php, line 154]
+2012-05-18 15:50:49 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:50:49 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Nodes/promoted in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:50:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
+2012-05-18 15:51:08 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:51:08 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Nodes/promoted in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:51:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
+2012-05-18 15:51:09 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:51:09 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Nodes/promoted in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:51:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
+2012-05-18 15:51:11 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:51:11 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Nodes/promoted in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:51:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
+2012-05-18 15:51:31 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:51:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Settings/admin_dashboard in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:51:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
+2012-05-18 15:52:12 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 14
+)
+" in [/usr/share/php/cake/libs/model/db_acl.php, line 191]
+2012-05-18 15:52:12 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 14
+            [firstname] => jitendra
+            [lastname] => thakur
+            [email] => jitendra@sanisoft.com
+            [school_id] => 1
+            [created] => 2012-05-02 04:18:52
+            [modified] => 2012-05-02 04:18:52
+            [userGroup] => Admin
+        )
+
+)
+
+Aco: controllers/Settings/admin_dashboard in [/usr/share/php/cake/libs/controller/components/acl.php, line 273]
+2012-05-18 15:52:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /usr/share/php/cake/libs/debugger.php:673) in [/usr/share/php/cake/libs/controller/controller.php, line 746]
